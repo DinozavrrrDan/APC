@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/coordinator-service" />
+    <file type="web" url="file://$PROJECT_DIR$/CoordinatorService" />
+    <file type="web" url="file://$PROJECT_DIR$/doctor-service" />
+    <file type="web" url="file://$PROJECT_DIR$/DoctorService" />
+    <file type="web" url="file://$PROJECT_DIR$/patient-generator-service" />
+    <file type="web" url="file://$PROJECT_DIR$/PatientGeneratorService" />
+    <file type="web" url="file://$PROJECT_DIR$/queue-service" />
+    <file type="web" url="file://$PROJECT_DIR$/QueueService" />
+    <file type="web" url="file://$PROJECT_DIR$/statistic-service" />
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

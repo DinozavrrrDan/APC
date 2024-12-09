@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/coordinator-service" />
+        <option name="gradleJvm" value="corretto-22" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/coordinator-service" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/doctor-service" />
+        <option name="gradleJvm" value="corretto-22" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/doctor-service" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/patient-generator-service" />
+        <option name="gradleJvm" value="corretto-22" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/patient-generator-service" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/queue-service" />
+        <option name="gradleJvm" value="corretto-22" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/queue-service" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/statistic-service" />
+        <option name="gradleJvm" value="corretto-22" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/statistic-service" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
