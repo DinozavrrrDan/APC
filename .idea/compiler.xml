@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="CoordinatorService" target="22" />
+      <module name="CoordinatorService.main" target="22" />
+      <module name="CoordinatorService.test" target="22" />
+      <module name="DoctorService" target="22" />
+      <module name="DoctorService.main" target="22" />
+      <module name="DoctorService.test" target="22" />
+      <module name="PatientGeneratorService" target="22" />
+      <module name="PatientGeneratorService.main" target="22" />
+      <module name="PatientGeneratorService.test" target="22" />
+      <module name="QueueService" target="22" />
+      <module name="QueueService.main" target="22" />
+      <module name="QueueService.test" target="22" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

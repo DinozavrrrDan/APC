@@ -1,0 +1,9 @@
+services:
+  psql-db:
+    image: postgres
+    environment:
+      POSTGRES_DB: statistic
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: 1234
+    ports:
+      - 5434
